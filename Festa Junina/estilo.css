@@ -1,0 +1,69 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #191970;
+    color: #fff;
+    border: 5px solid;
+    padding: 5px;
+ }
+ h1{
+    text-align: center;
+    font-size: 32pt;
+}
+h2{
+    text-align: center;
+    font-size: 25pt;
+}
+h3{
+    text-align: center;
+    font-size: 15pt;
+
+}
+p{
+  text-align: justify;
+  text-indent: 10px;
+}
+a {
+    display: inline;
+    margin-right: 20px;
+    color: #fff;
+    text-decoration: none;
+ }
+.jun {
+    text-align: center;
+ }
+.copy{
+    color: #fff;
+    text-align: right;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+
+}
+figure {
+    width: 30%;
+    background-color: #191970;
+    box-shadow: 5px 5px 5px #3131b6;
+    margin: 0 auto;
+   
+}
+
+figcaption {
+    text-align: center;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+    
+}
+.box{
+    display: inline-block;
+    margin: 20px;
+    position: relative;
+    
+   
+}
+
